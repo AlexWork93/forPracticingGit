@@ -1,1 +1,2 @@
 commit from second
+some text from third
