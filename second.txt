@@ -1,5 +1,12 @@
 commit from second
 some text from second
+second
 some text from second
 some text from third
 one more commit from second
+main
+some text from third
+some text from third
+one more text from third
+more and more text from third
+
