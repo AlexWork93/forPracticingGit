@@ -1,3 +1,4 @@
 commit from second
 some text from third
 one more text from third
+more and more text from third
